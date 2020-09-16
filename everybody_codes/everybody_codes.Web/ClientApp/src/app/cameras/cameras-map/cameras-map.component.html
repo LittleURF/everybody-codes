@@ -1,0 +1,11 @@
+<div id="map">
+  <google-map height="500px" width="100%" [zoom]="12">
+    <map-marker *ngFor="let camera of cameras;"
+      [position]="{ lat: camera.latitude, lng: camera.longitude }"
+    ></map-marker>
+  </google-map>
+</div>
+<div id="source">
+  source:
+  <a href="https://data.overheid.nl/data/dataset/camera-s">https://data.overheid.nl/data/dataset/camera-s</a>
+</div>

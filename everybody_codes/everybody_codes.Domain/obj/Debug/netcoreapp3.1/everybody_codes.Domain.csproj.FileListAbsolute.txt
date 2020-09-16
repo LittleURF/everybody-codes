@@ -1,0 +1,9 @@
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Domain\bin\Debug\netcoreapp3.1\everybody_codes.Domain.deps.json
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Domain\bin\Debug\netcoreapp3.1\everybody_codes.Domain.dll
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Domain\bin\Debug\netcoreapp3.1\everybody_codes.Domain.pdb
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Domain\obj\Debug\netcoreapp3.1\everybody_codes.Domain.csprojAssemblyReference.cache
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Domain\obj\Debug\netcoreapp3.1\everybody_codes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Domain\obj\Debug\netcoreapp3.1\everybody_codes.Domain.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Domain\obj\Debug\netcoreapp3.1\everybody_codes.Domain.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Domain\obj\Debug\netcoreapp3.1\everybody_codes.Domain.dll
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Domain\obj\Debug\netcoreapp3.1\everybody_codes.Domain.pdb

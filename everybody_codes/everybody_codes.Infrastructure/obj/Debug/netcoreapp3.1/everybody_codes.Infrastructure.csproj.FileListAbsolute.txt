@@ -1,0 +1,13 @@
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\bin\Debug\netcoreapp3.1\cameras-defb.csv
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\bin\Debug\netcoreapp3.1\everybody_codes.Infrastructure.deps.json
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\bin\Debug\netcoreapp3.1\everybody_codes.Infrastructure.dll
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\bin\Debug\netcoreapp3.1\everybody_codes.Infrastructure.pdb
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\bin\Debug\netcoreapp3.1\everybody_codes.Domain.dll
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\bin\Debug\netcoreapp3.1\everybody_codes.Domain.pdb
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\obj\Debug\netcoreapp3.1\everybody_codes.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\obj\Debug\netcoreapp3.1\everybody_codes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\obj\Debug\netcoreapp3.1\everybody_codes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\obj\Debug\netcoreapp3.1\everybody_codes.Infrastructure.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\obj\Debug\netcoreapp3.1\everybody_codes.Infrastructure.csproj.CopyComplete
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\obj\Debug\netcoreapp3.1\everybody_codes.Infrastructure.dll
+C:\Users\Hubert\Desktop\everybody-codes\everybody_codes\everybody_codes.Infrastructure\obj\Debug\netcoreapp3.1\everybody_codes.Infrastructure.pdb

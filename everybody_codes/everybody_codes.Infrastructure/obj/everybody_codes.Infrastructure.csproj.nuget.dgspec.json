@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Infrastructure\\everybody_codes.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Domain\\everybody_codes.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Domain\\everybody_codes.Domain.csproj",
+        "projectName": "everybody_codes.Domain",
+        "projectPath": "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Domain\\everybody_codes.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hubert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hubert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Infrastructure\\everybody_codes.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Infrastructure\\everybody_codes.Infrastructure.csproj",
+        "projectName": "everybody_codes.Infrastructure",
+        "projectPath": "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Infrastructure\\everybody_codes.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Hubert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hubert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Domain\\everybody_codes.Domain.csproj": {
+                "projectPath": "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Domain\\everybody_codes.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[15.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

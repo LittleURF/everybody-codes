@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDy4oPr0k0XSz9DspjhzXc5WsZh0zeXjaG+IGl4fHlg50oRWcfY1/XZ2YRdA3caVhmAV0xxsGEnJNu3Oi1qguQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hubert\\Desktop\\everybody-codes\\everybody_codes\\everybody_codes.Infrastructure\\everybody_codes.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hubert\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\Hubert\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hubert\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Hubert\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Hubert\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

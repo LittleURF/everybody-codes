@@ -30,12 +30,12 @@ namespace everybody_codes.Infrastructure.CSVParsing.Cameras
             return IsRecordError(record) || IsRecordEmpty(record);
         }
 
-        bool IsRecordEmpty(string[] record)
+        private bool IsRecordEmpty(string[] record)
         {
             return record.All(field => string.IsNullOrWhiteSpace(field));
         }
 
-        bool IsRecordError(string[] record)
+        private bool IsRecordError(string[] record)
         {
             return record[0].StartsWith("ERROR");
         }
